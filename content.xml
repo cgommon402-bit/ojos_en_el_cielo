@@ -1,0 +1,2505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260503202405PO0CT6</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260503202405FOPM40</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Ojos en el cielo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Coordinación de equipos y unidades de emergencias.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Cristina Gómez Montilla</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de aprendizaje basada en el uso de drones e IA en búsqueda de personas, con énfasis en la gestión de fallos tecnológicos.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777832144289</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-moq3ctsj-2x8qafqsw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Ojos en el cielo</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Ojos en el cielo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Ojos en el cielo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Ojos en el cielo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moq3ctsj-2x8qafqsw</odePageId>
+      <odeBlockId>block-1777757732271-00qr9z1sf</odeBlockId>
+      <blockName>Drones</blockName>
+      <iconName>stop</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq3ctsj-2x8qafqsw</odePageId>
+          <odeBlockId>block-1777757732271-00qr9z1sf</odeBlockId>
+          <odeIdeviceId>idevice-1777757732270-37hg86vjz</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777757732270-37hg86vjz" title="Dron" href="{{context_path}}/content/resources/dron.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/dron.jpg" height="128" width="128" title="Dron" alt="Dron" titlelink="" author="Elaboración propia." authorlink="" license="CC-BY" licenselink="http://creativecommons.org/licenses/"/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777757732270-37hg86vjz","img_0":{"img":"{{context_path}}/content/resources/dron.jpg","thumbnail":"{{context_path}}/content/resources/dron.jpg","title":"Dron","linktitle":"","author":"Elaboración propia.","linkauthor":"","license":"CC-BY"}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value>imagen</value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moq3ctsn-eos02wwvp</odePageId>
+  <odeParentPageId>page-moq3ctsj-2x8qafqsw</odeParentPageId>
+  <pageName>Presentación</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moq3ctsn-eos02wwvp</odePageId>
+      <odeBlockId>20260502185159P86PRU</odeBlockId>
+      <blockName>Ojos en el cielo</blockName>
+      <iconName>nature</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value>Texto</value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq3ctsn-eos02wwvp</odePageId>
+          <odeBlockId>20260502185159P86PRU</odeBlockId>
+          <odeIdeviceId>20260502000002I</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><div class="hero">
+<p class="hero-desc"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Uso de drones e inteligencia artificial en la búsqueda de personas desaparecidas. Aprendemos a usar la tecnología más avanzada… ya no dependemos de ella cuando falla.</span></span></p>
+<div class="hero-meta">
+<div class="hero-chip"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">🎓 2º GM Emergencias y Protección Civil</span></span></div>
+<div class="hero-chip"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">📚 Módulo 1534</span></span></div>
+<div class="hero-chip"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">🗓️ 3er trimestre · 12 horas</span></span></div>
+<div class="hero-chip"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">🏫 Córdoba</span></span></div>
+</div>
+</div>
+<div class="content">
+<h2><br></h2>
+<h2><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Bienvenida al proyecto</span></span></h2>
+<p class="lead"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Esta situación de aprendizaje te preparará para coordinar operativos de búsqueda y rescate con tecnología de vanguardia, y también para liderar cuando esa tecnología te falla en el momento más crítico.</span></span></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">En tu futuro profesional como técnico o técnica de emergencias, los drones y los programas de inteligencia artificial serán herramientas cotidianas. Pero la tecnología puede fallar. Una señal GPS perdida, un mapa que no carga, una IA que se equivoca… En esos momentos, lo que marca la diferencia es tu formación y tu capacidad de reacción.</span></span></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">En este proyecto aprenderás a </span></span><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">organizar dispositivos de búsqueda con drones y software de detección de víctimas</span></span></strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> , pero también a </span></span><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">trabajar analógicamente cuando el sistema falla</span></span></strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> , porque en un rescate real, no puedes esperar a que el servidor vuelva.</span></span></p>
+<div class="card-grid">
+<div class="card fade-in">
+<div class="card-icon"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">🛸</span></span></div>
+<h4><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Tecnología real</span></span></h4>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Drones, OruxMaps, Google Earth, Enaire y herramientas de IA como ChatGPT y Perplexity.</span></span></p>
+</div>
+<div class="card accent fade-in">
+<div class="card-icon"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">🗺️</span></span></div>
+<h4><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Terreno real</span></span></h4>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Prácticas en la finca de la Diputación de Córdoba. Mapas en papel siempre sobre la mesa.</span></span></p>
+</div>
+<div class="card success fade-in">
+<div class="card-icon"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">🤝</span></span></div>
+<h4><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Trabajo en equipo</span></span></h4>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Equipos de 4, parejas e individuales según la tarea. Como en una emergencia real.</span></span></p>
+</div>
+<div class="card fade-in">
+<div class="card-icon"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">🧠</span></span></div>
+<h4><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Pensamiento crítico</span></span></h4>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">La IA se equivocará a propósito. Tú decides cuándo fiarte y cuándo corregirla.</span></span></p>
+</div>
+</div>
+<div class="info-box"><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">📌 Nota importante sobre la edad mínima para drones</span></span></strong>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">La edad mínima legal para pilotar drones en categoría "abierta" en España es </span></span><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">16 años</span></span></strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> . Por eso este proyecto está dirigido a 2º de Grado Medio, donde todo el alumno cumple ese requisito.</span></span></p>
+</div>
+<h3><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">El contexto: ¿por qué este proyecto?</span></span></h3>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">En prácticas anteriores observamos que el alumno depende casi al 100% de que el servidor funcione. Los jóvenes de hoy en día tienen una relación compleja con la tecnología: la dominan… pero se bloquean cuando falla. En emergencias, ese bloqueo puede costar una vida.</span></span></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Con "Ojos en el cielo" diseñamos situaciones controladas donde el sistema falla a propósito, para que aprendas a </span></span><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">gestionar la incertidumbre</span></span></strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> , diseñar planos de contingencia analógicos y volver a usar la tecnología en cuanto esté disponible.</span></span></p>
+</div></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moq3ctso-ajdiqiy65</odePageId>
+  <odeParentPageId>page-moq3ctsj-2x8qafqsw</odeParentPageId>
+  <pageName>2.1 El proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.1 El proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>El proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2.1 El proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moq3ctso-ajdiqiy65</odePageId>
+      <odeBlockId>20260502185159MCXBZ0</odeBlockId>
+      <blockName>El proyecto</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq3ctso-ajdiqiy65</odePageId>
+          <odeBlockId>20260502185159MCXBZ0</odeBlockId>
+          <odeIdeviceId>20260502000004I</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><div class="hero" style="padding: 60px;">
+<p class="hero-desc"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Todo lo que necesitas saber antes de empezar: qué vas a hacer, cómo, con quién y para qué.</span></span></p>
+</div>
+<div class="content">
+<h2><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">¿Qué vamos a hacer?</span></span></h2>
+<p class="lead"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Organizarás dispositivos de búsqueda de personas utilizando drones y software de detección por IA. Y cuando el sistema falle (¡y fallará!), sabrás exactamente qué hacer.</span></span></p>
+<h3><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Las 5 tareas del proyecto</span></span></h3>
+<div class="task-list">
+<div class="task-card fade-in">
+<div class="task-num" style="background: #1a3a5c;"><span style="color: #ffffff;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">T1</span></span></span></div>
+<div class="task-body">
+<h4><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Analizar la normativa de seguridad aérea</span></span></h4>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Investigarás la normativa vigente sobre el uso de drones en operaciones de búsqueda y rescate en España. Identificarás las zonas de operación permitidas y los procedimientos de coordinación con otros servicios. Publicaréis los resultados en Padlet o Symbaloo.</span></span></p>
+<div class="task-pills"><span class="pill pill-gray"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">👥 Equipos de 4 </span></span></span> <span class="pill pill-blue"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">🕐 2 sesiones </span></span></span> <span class="pill pill-purple"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">🛠 Padlet · Symbaloo</span></span></span></div>
+<div class="task-pills"><span class="pill pill-orange"></span><br></div>
+</div>
+</div>
+<div class="task-card fade-in">
+<div class="task-num" style="background: #2563a8;"><span style="color: #ffffff;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">T2</span></span></span></div>
+<div class="task-body">
+<h4><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Planificación cartográfica del operativo</span></span></h4>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">En parejas, delimitaréis zonas de búsqueda sobre un mapa real utilizando Google Earth y Enaire. Marcaréis hitos geográficos, estableceréis procedimientos de comunicación y definiréis las zonas rastreadas. Aprenderéis a hacerlo también en papel.</span></span></p>
+<div class="task-pills"><span class="pill pill-gray"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">👫 Parejas </span></span></span> <span class="pill pill-blue"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">🕐 3 sesiones </span></span></span> <span class="pill pill-purple"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">🛠 Google Earth · Enaire</span></span></span></div>
+<div class="task-pills"><span class="pill pill-purple"></span><br></div>
+</div>
+</div>
+<div class="task-card fade-in">
+<div class="task-num" style="background: #e85d04;"><span style="color: #ffffff;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">T3</span></span></span></div>
+<div class="task-body">
+<h4><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Simulación de la hipótesis con IA</span></span></h4>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Antes de llegar al escenario, formularéis una hipótesis de intervención usando ChatGPT o Perplexity. La clave: tendréis que </span></span><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">cuestionar</span></span></strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> lo que la IA os diga, corregir sus errores y justificar vuestras decisiones con criterio técnico propio.</span></span></p>
+<div class="task-pills"><span class="pill pill-gray"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">👥 Equipos de 4 </span></span></span> <span class="pill pill-blue"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">🕐 2 sesiones </span></span></span> <span class="pill pill-purple"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">🛠 ChatGPT · Perplejidad</span></span></span>&nbsp;</div>
+<div class="task-pills"><br></div>
+</div>
+</div>
+<div class="task-card fade-in">
+<div class="task-num" style="background: #854f0b;"><span style="color: #ffffff;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">T4</span></span></span></div>
+<div class="task-body">
+<h4><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Navegación táctica en el terreno</span></span></h4>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">¡Al campo! De forma individual, navegarás por el terreno real de la finca usando OruxMaps. Identificarás hitos geográficos, delimitarás zonas de búsqueda y tomarás decisiones en tiempo real valorando la orografía y las condiciones meteorológicas.</span></span></p>
+<div class="task-pills"><span class="pill pill-gray"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">🙋 Individual </span></span></span> <span class="pill pill-blue"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">🕐 2 sesiones </span></span></span> <span class="pill pill-purple"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">🛠 OruxMaps</span></span></span></div>
+<div class="task-pills"><span class="pill pill-purple"></span><br></div>
+</div>
+</div>
+<div class="task-card fade-in">
+<div class="task-num" style="background: #444441;"><span style="color: #ffffff;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">T5</span></span></span></div>
+<div class="task-body">
+<h4><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Elaboración del informe final</span></span></h4>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Como cierre del proyecto, elaboraréis un informe en equipo que reconstruya cronológicamente la intervención, analice lo que salió bien y lo que hay que mejorar, y proponga actualizaciones de procedimientos. Lo presentaréis con Canva o Genially.</span></span></p>
+<div class="task-pills"><span class="pill pill-gray"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">👥 Equipos de 4 </span></span></span> <span class="pill pill-blue"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">🕐 3 sesiones </span></span></span> <span class="pill pill-purple"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">🛠 Canva · Genially</span></span></span>&nbsp;</div>
+<div class="task-pills"><br></div>
+</div>
+</div>
+</div>
+<div class="info-box warning"><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">⚠️ Sobre los fallos tecnológicos</span></span></strong>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Durante las sesiones, la tecnología fallará. Un propósito. No te bloques: ese es precisamente el aprendizaje más importante. Siempre habrá un plan B analógico disponible.</span></span></p>
+</div>
+</div></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moq3ctsp-gcs6yi6lu</odePageId>
+  <odeParentPageId>page-moq3ctsj-2x8qafqsw</odeParentPageId>
+  <pageName>2.3 Privacidad y derechos digitales</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.3 Privacidad y derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Privacidad y derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2.3 Privacidad y derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moq3ctsp-gcs6yi6lu</odePageId>
+      <odeBlockId>block-1777756622185-cz7vnwocw</odeBlockId>
+      <blockName>Infografía</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq3ctsp-gcs6yi6lu</odePageId>
+          <odeBlockId>block-1777756622185-cz7vnwocw</odeBlockId>
+          <odeIdeviceId>idevice-1777756622184-bmdvdkeau</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777756622184-bmdvdkeau" title="" href="{{context_path}}/content/resources/Identidad digital 2.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Identidad digital 2.png" height="128" width="128" title="" alt="" titlelink="" author="Elaboración propia con Canva." authorlink="" license="CC-BY" licenselink="http://creativecommons.org/licenses/"/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777756622184-bmdvdkeau","img_0":{"img":"{{context_path}}/content/resources/Identidad digital 2.png","thumbnail":"{{context_path}}/content/resources/Identidad digital 2.png","title":"","linktitle":"","author":"Elaboración propia con Canva.","linkauthor":"","license":"CC-BY"}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moq3ctsp-gcs6yi6lu</odePageId>
+      <odeBlockId>20260502185159ED5J92</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq3ctsp-gcs6yi6lu</odePageId>
+          <odeBlockId>20260502185159ED5J92</odeBlockId>
+          <odeIdeviceId>20260502000006I</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><div class="hero" style="padding: 60px; background: linear-gradient(135deg, #1e3a5f 0%, #0f2540 100%);">
+<div class="hero-tag"><span style="color: #ffffff;">Formación digital · Tarea 2.3</span></div>
+<h1><span style="color: #ffffff;">Tu identidad digital</span></h1>
+<p class="hero-desc"><span style="color: #ffffff;">Como futuro profesional de emergencias, manejarás datos sensibles de víctimas, coordinarás comunicaciones críticas y usarás tecnología avanzada. Conocer tus derechos y responsabilidades digitales es parte esencial de tu perfil profesional.</span></p>
+</div>
+<div class="content">
+<h2></h2>
+<h2>Protección de datos y derechos digitales</h2>
+<p class="lead">En este proyecto usarás drones con cámara, mapas de geolocalización y herramientas de IA. Toda esta tecnología implica responsabilidades legales y éticas que debes conocer.</p>
+<div class="card-grid">
+<div class="card fade-in">
+<div class="card-icon">🔒</div>
+<h4>Protege tus datos personales</h4>
+<p>No compartas contraseñas. Usa claves seguras (mínimo 8 caracteres). No publiques datos personales. Cierra sesión en dispositivos compartidos del aula.</p>
+</div>
+<div class="card accent fade-in">
+<div class="card-icon">👁️</div>
+<h4>Huella digital profesional</h4>
+<p>Todo lo que hagas online queda registrado. Piensa antes de publicar. Tu imagen profesional empieza hoy.</p>
+</div>
+<div class="card success fade-in">
+<div class="card-icon">⚖️</div>
+<h4>Tus derechos digitales</h4>
+<p>Tienes derecho a la privacidad, a la protección de datos, a no sufrir acoso online y a la desconexión digital.</p>
+</div>
+</div>
+<h3>En el contexto de emergencias: responsabilidades específicas</h3>
+<div class="info-box"><strong>📷 Imágenes captadas por drones</strong>
+<p>Las imágenes y vídeos capturados durante un operativo pueden contener datos personales de víctimas. Deben tratarse conforme al <strong>RGPD (Reglamento General de Protección de Datos)</strong> y solo usarse para los fines del operativo. Su difusión no autorizada es una infracción grave.</p>
+</div>
+<div class="info-box warning"><strong>🤖 IA y datos de víctimas</strong>
+<p>Cuando uses herramientas de IA como ChatGPT para formular hipótesis de intervención, <strong>nunca introduzcas datos personales reales de víctimas</strong>. Usa siempre datos ficcionalizados o anonimizados.</p>
+</div>
+<div class="info-box success"><strong>📍 Geolocalización y privacidad</strong>
+<p>Los mapas de geolocalización y los registros de OruxMaps generan datos de ubicación. Estos datos pueden estar protegidos. Aprende a distinguir cuándo necesitas consentimiento y cuándo operas en el marco legal de una emergencia.</p>
+</div>
+<h3>Riesgos digitales que debes conocer</h3>
+<div class="table-wrap">
+<table>
+<thead>
+<tr>
+<th>Riesgo</th>
+<th>En qué consiste</th>
+<th>Cómo protegerte</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Phishing</strong></td>
+<td>Intentos de robo de datos mediante correos o webs falsas</td>
+<td>Verifica siempre la URL. No hagas clic en enlaces sospechosos.</td>
+</tr>
+<tr>
+<td><strong>Suplantación de identidad</strong></td>
+<td>Alguien se hace pasar por ti o por un servicio oficial</td>
+<td>Usa autenticación en dos pasos. Nunca compartas credenciales.</td>
+</tr>
+<tr>
+<td><strong>Fake news</strong></td>
+<td>Información falsa que puede afectar a un operativo</td>
+<td>Contrasta siempre con fuentes oficiales. La IA también puede generar fake news.</td>
+</tr>
+<tr>
+<td><strong>Ciberacoso</strong></td>
+<td>Insultos, amenazas o acoso en entornos digitales</td>
+<td>Documenta, bloquea y reporta. Pide ayuda.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="info-box"><strong>📚 Normativa de referencia</strong>
+<p>RGPD (Reglamento UE 2016/679) · Ley Orgánica 3/2018 (LOPDGDD) · Real Decreto 1060/2015 (regulación de drones) · Reglamento de Ejecución (UE) 2019/947 (operaciones con UAS)</p>
+</div>
+</div></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moq3ctsq-dm90dapbo</odePageId>
+  <odeParentPageId>page-moq3ctsj-2x8qafqsw</odeParentPageId>
+  <pageName>4.1 Tu producto final</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.1 Tu producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tu producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4.1 Tu producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moq3ctsq-dm90dapbo</odePageId>
+      <odeBlockId>20260502185159C7QB7Y</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq3ctsq-dm90dapbo</odePageId>
+          <odeBlockId>20260502185159C7QB7Y</odeBlockId>
+          <odeIdeviceId>20260502000008I</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><div class="hero" style="padding: 60px; background: linear-gradient(135deg, #2d6a4f 0%, #1b4332 100%);">
+<div class="hero-tag"><span style="color: #ffffff;">Tu entregable final · Tarea 4.1</span></div>
+<h1><span style="color: #ffffff;">Tu producto final</span></h1>
+<p class="hero-desc"><span style="color: #ffffff;">El informe de evaluación del operativo es el producto final que demuestra todo lo aprendido durante el proyecto.</span></p>
+</div>
+<div class="content">
+<h2></h2>
+<h2>¿Qué debes entregar?</h2>
+<p class="lead">Al finalizar el proyecto, cada equipo presentará un <strong>Informe de Evaluación del Operativo</strong> que reconstruya y analice toda la intervención realizada.</p>
+<h3>Formato</h3>
+<div class="card-grid">
+<div class="card fade-in">
+<div class="card-icon">🎨</div>
+<h4>Canva o Genially</h4>
+<p>Presentación visual interactiva, exportable en PDF o enlace público.</p>
+</div>
+<div class="card fade-in">
+<div class="card-icon">👥</div>
+<h4>Equipo de 4</h4>
+<p>Trabajo grupal con aportaciones diferenciadas y visibles de cada miembro.</p>
+</div>
+<div class="card fade-in">
+<div class="card-icon">🕐</div>
+<h4>3 sesiones</h4>
+<p>Tiempo en clase para elaborar, revisar y finalizar el informe.</p>
+</div>
+</div>
+<h3>Contenido mínimo obligatorio</h3>
+<ul class="checklist">
+<li>Reconstrucción cronológica completa de la intervención (¿qué hizo cada miembro del equipo y cuándo?)</li>
+<li>Análisis de al menos 3 aspectos positivos con argumentación técnica</li>
+<li>Análisis de al menos 3 aspectos negativos o áreas de mejora con argumentación técnica</li>
+<li>Propuestas concretas y viables de actualización de procedimientos</li>
+<li>Reflexión sobre el uso de la IA: ¿cuándo fue útil? ¿cuándo falló? ¿cómo lo corregistéis?</li>
+<li>Conclusión sobre la gestión del fallo tecnológico: ¿qué haríais diferente?</li>
+</ul>
+<h3>Criterios de evaluación (T5)</h3>
+<p>Este producto se evaluará con la <strong>Rúbrica analítica</strong> (Bloque 3). Consulta la sección de Evaluación para conocer exactamente qué se valora en cada apartado.</p>
+<div class="info-box success"><strong>💡 Consejo</strong>
+<p>El informe más valioso no es el que presenta solo los éxitos, sino el que demuestra que habéis aprendido de los fallos. El análisis crítico riguroso de lo que no funcionó es lo que marca a un buen profesional de las emergencias.</p>
+</div>
+<h3>Principios DUA aplicados a este proyecto</h3>
+<div class="dua-grid">
+<div class="dua-card fade-in">
+<div class="dua-icon">🖼️ Múltiples medios de representación</div>
+<p>Contenidos en texto, vídeo, mapa e infografía. Siempre con alternativa analógica.</p>
+</div>
+<div class="dua-card fade-in">
+<div class="dua-icon">🎯&nbsp;Múltiples medios de acción</div>
+<p>Individual, parejas y equipo. Digital y papel. Oral y escrito.</p>
+</div>
+<div class="dua-card fade-in">
+<div class="dua-icon">❤️&nbsp;Múltiples medios de motivación</div>
+<p>Rol de experto TIC, elección de herramientas, escenarios reales del entorno.</p>
+</div>
+</div>
+</div></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moq3ctsq-womqbgmwa</odePageId>
+  <odeParentPageId>page-moq3ctsj-2x8qafqsw</odeParentPageId>
+  <pageName>5.1 Recursos seleccionados</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5.1 Recursos seleccionados</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos seleccionados</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5.1 Recursos seleccionados</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moq3ctsq-womqbgmwa</odePageId>
+      <odeBlockId>2026050218515979HDBN</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq3ctsq-womqbgmwa</odePageId>
+          <odeBlockId>2026050218515979HDBN</odeBlockId>
+          <odeIdeviceId>20260502000010I</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main">
+    <div class="hero" style="padding:60px;">
+      <div class="hero-tag">Recursos · Tarea 5.1</div>
+      <h1>Recursos <span>seleccionados</span></h1>
+      <p class="hero-desc">Herramientas y materiales curados para el proyecto, organizados para el profesorado y para el alumnado.</p>
+    </div>
+    <div class="content">
+      <h2>Curación de contenidos</h2>
+      <p class="lead">Todos los recursos han sido seleccionados y verificados específicamente para este módulo. Se han organizado en dos colecciones: una para uso docente y otra para el alumnado.</p>
+
+      <h3>🎓 Para el alumnado</h3>
+      <p>Recursos organizados por tarea y nivel de dificultad, accesibles en Symbaloo:</p>
+
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr><th>Tarea</th><th>Recurso</th><th>Descripción</th><th>Licencia</th></tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>T1</strong></td>
+              <td><a href="https://www.enaire.es" target="_blank" rel="noopener">ENAIRE — Drones</a></td>
+              <td>Portal oficial para consultar zonas de vuelo permitidas en España</td>
+              <td>Dominio público</td>
+            </tr>
+            <tr>
+              <td><strong>T1</strong></td>
+              <td><a href="https://www.seguridadaerea.gob.es" target="_blank" rel="noopener">AESA — Normativa UAS</a></td>
+              <td>Agencia Estatal de Seguridad Aérea. Normativa vigente sobre drones.</td>
+              <td>Dominio público</td>
+            </tr>
+            <tr>
+              <td><strong>T2</strong></td>
+              <td><a href="https://earth.google.com" target="_blank" rel="noopener">Google Earth Web</a></td>
+              <td>Cartografía satelital para planificación de operativos</td>
+              <td>Uso educativo</td>
+            </tr>
+            <tr>
+              <td><strong>T2</strong></td>
+              <td><a href="https://www.ign.es/iberpix/visor/" target="_blank" rel="noopener">Iberpix — IGN</a></td>
+              <td>Visor cartográfico oficial del IGN. Alternativa analógica y digital.</td>
+              <td>CC BY 4.0</td>
+            </tr>
+            <tr>
+              <td><strong>T4</strong></td>
+              <td><a href="https://www.oruxmaps.com" target="_blank" rel="noopener">OruxMaps</a></td>
+              <td>App de navegación offline para Android. Descarga los mapas en casa.</td>
+              <td>Freeware</td>
+            </tr>
+            <tr>
+              <td><strong>T3</strong></td>
+              <td><a href="https://chat.openai.com" target="_blank" rel="noopener">ChatGPT</a></td>
+              <td>Para formular hipótesis de intervención. Úsalo críticamente.</td>
+              <td>Uso educativo</td>
+            </tr>
+            <tr>
+              <td><strong>T3</strong></td>
+              <td><a href="https://www.perplexity.ai" target="_blank" rel="noopener">Perplexity AI</a></td>
+              <td>IA con referencias. Permite contrastar y verificar la información.</td>
+              <td>Uso educativo</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h3>📖 Para el profesorado</h3>
+      <p>Marco normativo, documentación técnica y recursos de apoyo para la gestión del aula:</p>
+
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr><th>Ámbito</th><th>Recurso</th><th>Descripción</th></tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>Normativa</strong></td>
+              <td>Reglamento UE 2019/947</td>
+              <td>Operaciones con sistemas de aeronaves no tripuladas en el espacio aéreo común</td>
+            </tr>
+            <tr>
+              <td><strong>Normativa</strong></td>
+              <td>Real Decreto 1036/2017</td>
+              <td>Regulación de la utilización civil de las aeronaves pilotadas por control remoto</td>
+            </tr>
+            <tr>
+              <td><strong>Didáctica</strong></td>
+              <td>Proyecto EDIA — CEDEC</td>
+              <td>Situaciones de aprendizaje con metodologías activas para FP</td>
+            </tr>
+            <tr>
+              <td><strong>DUA</strong></td>
+              <td>CAST — UDL Guidelines</td>
+              <td>Pautas para el Diseño Universal para el Aprendizaje</td>
+            </tr>
+            <tr>
+              <td><strong>IA educativa</strong></td>
+              <td>INTEF — IA en el aula</td>
+              <td>Recursos para el uso crítico de la inteligencia artificial en FP</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div class="info-box">
+        <strong>ℹ️ Sobre la autoría y licencias</strong>
+        <p>Todos los recursos enlazados respetan derechos de autor. Las imágenes propias del proyecto están bajo licencia <strong>CC BY-SA 4.0</strong>. Las herramientas externas se usan en su modalidad educativa gratuita. Los datos y capturas del terreno son de elaboración propia.</p>
+      </div>
+    </div>
+  </div></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moq3ctsr-8veobxgxa</odePageId>
+  <odeParentPageId>page-moq3ctsj-2x8qafqsw</odeParentPageId>
+  <pageName>6.1 Criterios de evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6.1 Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6.1 Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moq3ctsr-8veobxgxa</odePageId>
+      <odeBlockId>20260502185159OYAN2Y</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq3ctsr-8veobxgxa</odePageId>
+          <odeBlockId>20260502185159OYAN2Y</odeBlockId>
+          <odeIdeviceId>20260502000014I</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><div class="hero" style="padding: 60px;">
+<div class="hero-tag">Evaluación · Tarea 6.1</div>
+<h1>Criterios de <span>evaluación</span></h1>
+<p class="hero-desc">Cada tarea está vinculada a Resultados de Aprendizaje y criterios de evaluación.</p>
+</div>
+<div class="content">
+<h2>Tabla de criterios</h2>
+<p class="lead">Conocer los criterios de evaluación antes de empezar es la mejor estrategia para tener éxito. Aquí tienes exactamente qué se va a evaluar en cada tarea.</p>
+<div class="table-wrap">
+<table>
+<thead>
+<tr>
+<th>Tarea</th>
+<th>Criterio de Evaluación</th>
+<th>Agrup.</th>
+<th>Tiempo</th>
+<th>Herramienta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>T1 — Normativa aérea</strong></td>
+<td><strong>RA1 · a, b, h</strong> — Define el espacio de intervención, determina zonas de operación e identifica los procedimientos de coordinación con otros servicios, aplicando la normativa vigente sobre uso de drones en operaciones de búsqueda y rescate.</td>
+<td>Eq. 4</td>
+<td>2 ses.</td>
+<td>Padlet · Symbaloo</td>
+</tr>
+<tr>
+<td><strong>T2 — Cartografía</strong></td>
+<td><strong>RA1 · b, d, h</strong> — Determina zonas de búsqueda acotando el radio de localización, ubica segmentos sobre el mapa a partir de hitos geográficos del entorno y establece procedimientos de comunicación y marcación de zonas rastreadas.</td>
+<td>Parejas</td>
+<td>3 ses.</td>
+<td>Google Earth · Enaire</td>
+</tr>
+<tr>
+<td><strong>T3 — Hipótesis IA</strong></td>
+<td><strong>RA2-3-4-5 · criterio a</strong> — Formula una hipótesis de intervención previa a la llegada al escenario, valorando información del centro de coordinación, características del territorio y experiencia en siniestros similares, usando herramientas de IA de forma crítica y justificada.</td>
+<td>Eq. 4</td>
+<td>2 ses.</td>
+<td>ChatGPT · Perplexity</td>
+</tr>
+<tr>
+<td><strong>T4 — Navegación</strong></td>
+<td><strong>RA1 · a, b, f / RA5 · b, c</strong> — Identifica in situ necesidades de medios y recursos, planifica itinerarios de acceso valorando orografía, condiciones meteorológicas y características del entorno, y delimita zonas de operación sobre el terreno real.</td>
+<td>Individual</td>
+<td>2 ses.</td>
+<td>OruxMaps</td>
+</tr>
+<tr>
+<td><strong>T5 — Informe final</strong></td>
+<td><strong>RA6 · a, c, d, e, f</strong> — Organiza sesiones de evaluación reconstruyendo cronológicamente la intervención, analiza aspectos positivos y negativos, formula objetivos de mejora técnica e incorpora propuestas de actualización de procedimientos.</td>
+<td>Eq. 4</td>
+<td>3 ses.</td>
+<td>Canva · Genially</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3></h3>
+<h3>Protocolo ante problemas técnicos</h3>
+<div class="card-grid">
+<div class="card fade-in">
+<div class="card-icon">🛡️&nbsp;Prevención</div>
+<p>Herramientas offline como OruxMaps con cartografía descargada previamente en el centro.</p>
+</div>
+<div class="card accent fade-in">
+<div class="card-icon">💻Experto TIC</div>
+<p>Cada equipo designa un alumno/a con más experiencia digital para resolver incidencias menores.</p>
+</div>
+<div class="card success fade-in">
+<div class="card-icon">🗺️Plan analógico</div>
+<p>Mapas del IGN impresos, brújulas y protocolos en papel. Si todo falla: "a la antigua".</p>
+</div>
+</div>
+</div></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moq3ctsr-j08ou6y6k</odePageId>
+  <odeParentPageId>page-moq3ctsj-2x8qafqsw</odeParentPageId>
+  <pageName>7.1 Línea temporal</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7.1 Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>7.1 Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moq3ctsr-j08ou6y6k</odePageId>
+      <odeBlockId>block-1777757201471-2thc3kx3b</odeBlockId>
+      <blockName>Genially</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq3ctsr-j08ou6y6k</odePageId>
+          <odeBlockId>block-1777757201471-2thc3kx3b</odeBlockId>
+          <odeIdeviceId>idevice-1777756786018-4v43wi41h</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://view.genially.com/69f64bcaab86d6d6d695319e" size="3" width="600" height="500" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moq3ctsr-j08ou6y6k</odePageId>
+      <odeBlockId>20260502185159QP3DR5</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq3ctsr-j08ou6y6k</odePageId>
+          <odeBlockId>20260502185159QP3DR5</odeBlockId>
+          <odeIdeviceId>20260502000012I</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main">
+    <div class="hero" style="padding:60px;">
+      <div class="hero-tag">Secuencia didáctica · Tarea 7.1</div>
+      <h1>Línea <span>temporal</span></h1>
+      <p class="hero-desc">Las 5 tareas del proyecto distribuidas en 12 sesiones. Haz clic en cada tarea para explorar sus detalles.</p>
+    </div>
+    <div class="content">
+      <h2>Secuencia de tareas</h2>
+      <p>El proyecto se desarrolla durante el 3er trimestre en 12 sesiones distribuidas en 4 días de prácticas (6h por día) en la finca agropecuaria de la Diputación de Córdoba.</p>
+
+      <div class="timeline-frame">
+        <!-- Inline timeline from Tarea 7.1 -->
+        <div style="padding: 20px 24px 24px;">
+          <p style="font-size: 12px; color: #6b6560; margin: 0 0 16px;">Módulo 1508 · Total: 12 sesiones</p>
+
+          <div style="background:#fff; border:0.5px solid #d4cfc8; border-radius:10px; padding:14px 16px; margin-bottom:0;">
+            <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
+              <div style="width:28px;height:28px;border-radius:50%;background:#E1F5EE;color:#0F6E56;display:flex;align-items:center;justify-content:center;font-size:13px;font-weight:600;flex-shrink:0;">T1</div>
+              <strong style="font-size:14px;color:#1c1917;">Analizar la normativa de seguridad aérea</strong>
+            </div>
+            <p style="font-size:12px;color:#6b6560;margin:0 0 8px;line-height:1.5;">RA1 · criterios a, b, h — Espacio de intervención, zonas de operación y coordinación con otros servicios. Normativa de drones en emergencias.</p>
+            <div style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;">
+              <span style="display:inline-block;font-size:11px;font-weight:500;padding:2px 8px;border-radius:99px;background:#F1EFE8;color:#5F5E5A;">Equipos de 4</span>
+              <span style="display:inline-block;font-size:11px;font-weight:500;padding:2px 8px;border-radius:99px;background:#E1F5EE;color:#0F6E56;">2 sesiones</span>
+              <span style="display:inline-block;font-size:11px;font-weight:500;padding:2px 8px;border-radius:99px;background:#EEEDFE;color:#534AB7;">Padlet · Symbaloo</span>
+            </div>
+            <div style="display:flex;gap:4px;margin-top:8px;">
+              <div style="width:20px;height:6px;border-radius:3px;background:#1D9E75;"></div>
+              <div style="width:20px;height:6px;border-radius:3px;background:#1D9E75;"></div>
+            </div>
+          </div>
+
+          <div style="display:flex;align-items:center;justify-content:center;height:28px;"><div style="width:2px;height:100%;background:#d4cfc8;margin:0 auto;"></div></div>
+
+          <div style="background:#fff;border:0.5px solid #d4cfc8;border-radius:10px;padding:14px 16px;">
+            <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
+              <div style="width:28px;height:28px;border-radius:50%;background:#EEEDFE;color:#534AB7;display:flex;align-items:center;justify-content:center;font-size:13px;font-weight:600;flex-shrink:0;">T2</div>
+              <strong style="font-size:14px;color:#1c1917;">Planificación cartográfica del operativo</strong>
+            </div>
+            <p style="font-size:12px;color:#6b6560;margin:0 0 8px;line-height:1.5;">RA1 · criterios b, d, h — Zonas de búsqueda sobre mapa, hitos geográficos, balizamiento y procedimientos de comunicación.</p>
+            <div style="display:flex;gap:6px;flex-wrap:wrap;">
+              <span style="display:inline-block;font-size:11px;font-weight:500;padding:2px 8px;border-radius:99px;background:#F1EFE8;color:#5F5E5A;">Parejas</span>
+              <span style="display:inline-block;font-size:11px;font-weight:500;padding:2px 8px;border-radius:99px;background:#E1F5EE;color:#0F6E56;">3 sesiones</span>
+              <span style="display:inline-block;font-size:11px;font-weight:500;padding:2px 8px;border-radius:99px;background:#EEEDFE;color:#534AB7;">Google Earth · Enaire</span>
+            </div>
+            <div style="display:flex;gap:4px;margin-top:8px;">
+              <div style="width:20px;height:6px;border-radius:3px;background:#7F77DD;"></div>
+              <div style="width:20px;height:6px;border-radius:3px;background:#7F77DD;"></div>
+              <div style="width:20px;height:6px;border-radius:3px;background:#7F77DD;"></div>
+            </div>
+          </div>
+
+          <div style="display:flex;align-items:center;justify-content:center;height:28px;"><div style="width:2px;height:100%;background:#d4cfc8;margin:0 auto;"></div></div>
+
+          <div style="background:#fff;border:0.5px solid #d4cfc8;border-radius:10px;padding:14px 16px;">
+            <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
+              <div style="width:28px;height:28px;border-radius:50%;background:#FAECE7;color:#993C1D;display:flex;align-items:center;justify-content:center;font-size:13px;font-weight:600;flex-shrink:0;">T3</div>
+              <strong style="font-size:14px;color:#1c1917;">Simulación de la hipótesis con IA</strong>
+            </div>
+            <p style="font-size:12px;color:#6b6560;margin:0 0 8px;line-height:1.5;">RA2-3-4-5 · criterio a — Formula hipótesis de intervención previa al escenario. Uso crítico y justificado de herramientas de IA.</p>
+            <div style="display:flex;gap:6px;flex-wrap:wrap;">
+              <span style="display:inline-block;font-size:11px;font-weight:500;padding:2px 8px;border-radius:99px;background:#F1EFE8;color:#5F5E5A;">Equipos de 4</span>
+              <span style="display:inline-block;font-size:11px;font-weight:500;padding:2px 8px;border-radius:99px;background:#E1F5EE;color:#0F6E56;">2 sesiones</span>
+              <span style="display:inline-block;font-size:11px;font-weight:500;padding:2px 8px;border-radius:99px;background:#EEEDFE;color:#534AB7;">ChatGPT · Perplexity</span>
+            </div>
+            <div style="display:flex;gap:4px;margin-top:8px;">
+              <div style="width:20px;height:6px;border-radius:3px;background:#D85A30;"></div>
+              <div style="width:20px;height:6px;border-radius:3px;background:#D85A30;"></div>
+            </div>
+          </div>
+
+          <div style="display:flex;align-items:center;justify-content:center;height:28px;"><div style="width:2px;height:100%;background:#d4cfc8;margin:0 auto;"></div></div>
+
+          <div style="background:#fff;border:0.5px solid #d4cfc8;border-radius:10px;padding:14px 16px;">
+            <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
+              <div style="width:28px;height:28px;border-radius:50%;background:#FAEEDA;color:#854F0B;display:flex;align-items:center;justify-content:center;font-size:13px;font-weight:600;flex-shrink:0;">T4</div>
+              <strong style="font-size:14px;color:#1c1917;">Navegación táctica en el terreno</strong>
+            </div>
+            <p style="font-size:12px;color:#6b6560;margin:0 0 8px;line-height:1.5;">RA1 · criterios a, b, f / RA5 · criterios b, c — Orografía, condiciones meteorológicas, identificación in situ y delimitación de zonas.</p>
+            <div style="display:flex;gap:6px;flex-wrap:wrap;">
+              <span style="display:inline-block;font-size:11px;font-weight:500;padding:2px 8px;border-radius:99px;background:#F1EFE8;color:#5F5E5A;">Individual</span>
+              <span style="display:inline-block;font-size:11px;font-weight:500;padding:2px 8px;border-radius:99px;background:#E1F5EE;color:#0F6E56;">2 sesiones</span>
+              <span style="display:inline-block;font-size:11px;font-weight:500;padding:2px 8px;border-radius:99px;background:#EEEDFE;color:#534AB7;">OruxMaps</span>
+            </div>
+            <div style="display:flex;gap:4px;margin-top:8px;">
+              <div style="width:20px;height:6px;border-radius:3px;background:#BA7517;"></div>
+              <div style="width:20px;height:6px;border-radius:3px;background:#BA7517;"></div>
+            </div>
+          </div>
+
+          <div style="display:flex;align-items:center;justify-content:center;height:28px;"><div style="width:2px;height:100%;background:#d4cfc8;margin:0 auto;"></div></div>
+
+          <div style="background:#fff;border:0.5px solid #d4cfc8;border-radius:10px;padding:14px 16px;">
+            <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
+              <div style="width:28px;height:28px;border-radius:50%;background:#F1EFE8;color:#444441;display:flex;align-items:center;justify-content:center;font-size:13px;font-weight:600;flex-shrink:0;">T5</div>
+              <strong style="font-size:14px;color:#1c1917;">Elaboración del informe final</strong>
+            </div>
+            <p style="font-size:12px;color:#6b6560;margin:0 0 8px;line-height:1.5;">RA6 · criterios a, c, d, e, f — Evaluación de la intervención, reconstrucción cronológica, análisis de mejoras y propuestas de actualización.</p>
+            <div style="display:flex;gap:6px;flex-wrap:wrap;">
+              <span style="display:inline-block;font-size:11px;font-weight:500;padding:2px 8px;border-radius:99px;background:#F1EFE8;color:#5F5E5A;">Equipos de 4</span>
+              <span style="display:inline-block;font-size:11px;font-weight:500;padding:2px 8px;border-radius:99px;background:#E1F5EE;color:#0F6E56;">3 sesiones</span>
+              <span style="display:inline-block;font-size:11px;font-weight:500;padding:2px 8px;border-radius:99px;background:#EEEDFE;color:#534AB7;">Canva · Genially</span>
+            </div>
+            <div style="display:flex;gap:4px;margin-top:8px;">
+              <div style="width:20px;height:6px;border-radius:3px;background:#888780;"></div>
+              <div style="width:20px;height:6px;border-radius:3px;background:#888780;"></div>
+              <div style="width:20px;height:6px;border-radius:3px;background:#888780;"></div>
+            </div>
+          </div>
+
+          <div style="margin-top:20px;padding:10px 14px;background:#f5f3ef;border-radius:8px;display:flex;gap:20px;flex-wrap:wrap;align-items:center;">
+            <span style="font-size:12px;color:#6b6560;font-weight:600;">Total: <strong style="color:#0F6E56;">12 sesiones</strong></span>
+            <span style="font-size:12px;color:#6b6560;">|</span>
+            <span style="font-size:12px;color:#6b6560;">Individual · Parejas · Equipos de 4</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moq3ctss-9xn1rwa8z</odePageId>
+  <odeParentPageId>page-moq3ctsj-2x8qafqsw</odeParentPageId>
+  <pageName>8.1 Rúbrica analítica</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8.1 Rúbrica analítica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Rúbrica analítica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>8.1 Rúbrica analítica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moq3ctss-9xn1rwa8z</odePageId>
+      <odeBlockId>202605021851591ZWI79</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq3ctss-9xn1rwa8z</odePageId>
+          <odeBlockId>202605021851591ZWI79</odeBlockId>
+          <odeIdeviceId>20260502000016I</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main">
+    <div class="hero" style="padding:60px;">
+      <div class="hero-tag">Instrumento 1 · Tarea 8.1</div>
+      <h1>Rúbrica <span>analítica</span></h1>
+      <p class="hero-desc">Para las tareas grupales T1, T2, T3 y T5. Puntuación máxima: 32 puntos. Mínimo para superar: 16 puntos (50%).</p>
+    </div>
+    <div class="content">
+      <h2>Rúbrica analítica</h2>
+      <p class="lead">La rúbrica analítica permite conocer exactamente en qué dimensiones has alcanzado los objetivos y qué necesitas mejorar. Se aplica a T1, T2, T3 y T5.</p>
+
+      <h3>Bloque 1: Planificación y análisis del operativo (T1 y T2)</h3>
+      <div class="table-wrap">
+        <table class="rubric-table">
+          <thead>
+            <tr><th>Criterio</th><th>Excelente (4)</th><th>Bien (3)</th><th>Suficiente (2)</th><th>Insuficiente (1)</th></tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>1.1 Normativa aérea</strong></td>
+              <td class="ex">Identifica toda la normativa relevante, la aplica correctamente y justifica las restricciones con criterio técnico</td>
+              <td class="bien">Identifica la normativa principal y la aplica con alguna imprecisión menor</td>
+              <td class="suf">Identifica la normativa de forma básica, pero con errores o sin justificación</td>
+              <td class="ins">No identifica la normativa o la aplica de forma incorrecta</td>
+            </tr>
+            <tr>
+              <td><strong>1.2 Cartografía</strong></td>
+              <td class="ex">Zonas perfectamente delimitadas, justificadas con hitos geográficos y priorizadas según el protocolo</td>
+              <td class="bien">Zonas bien delimitadas con alguna laguna en la justificación</td>
+              <td class="suf">Zonas delimitadas pero sin criterio técnico claro ni uso de hitos</td>
+              <td class="ins">No delimita zonas o lo hace sin ninguna referencia técnica</td>
+            </tr>
+            <tr>
+              <td><strong>1.3 Coordinación</strong></td>
+              <td class="ex">Define canales y procedimientos de coordinación con todos los servicios intervinientes y justifica cada decisión</td>
+              <td class="bien">Define la mayoría de procedimientos con alguna omisión</td>
+              <td class="suf">Menciona la coordinación pero sin concretar procedimientos</td>
+              <td class="ins">No contempla la coordinación con otros servicios</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h3>Bloque 2: Hipótesis de cobertura con IA (T3)</h3>
+      <div class="table-wrap">
+        <table class="rubric-table">
+          <thead>
+            <tr><th>Criterio</th><th>Excelente (4)</th><th>Bien (3)</th><th>Suficiente (2)</th><th>Insuficiente (1)</th></tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>2.1 Calidad de la hipótesis</strong></td>
+              <td class="ex">Hipótesis completa, con todos los elementos (tipo suceso, población, recursos, organización) y realista</td>
+              <td class="bien">Hipótesis correcta pero le faltan uno o dos elementos relevantes</td>
+              <td class="suf">Hipótesis incompleta o con imprecisiones notables</td>
+              <td class="ins">Hipótesis errónea o que no responde a los criterios del módulo</td>
+            </tr>
+            <tr>
+              <td><strong>2.2 Uso crítico de la IA</strong></td>
+              <td class="ex">Cuestiona sistemáticamente las respuestas de la IA, las contrasta con criterio técnico propio y justifica los ajustes</td>
+              <td class="bien">Cuestiona algunas respuestas pero acepta otras sin contrastar</td>
+              <td class="suf">Usa la IA sin cuestionarla pero muestra conciencia de sus limitaciones</td>
+              <td class="ins">Copia la respuesta de la IA sin ninguna evaluación crítica</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h3>Bloque 3: Informe final de evaluación (T5)</h3>
+      <div class="table-wrap">
+        <table class="rubric-table">
+          <thead>
+            <tr><th>Criterio</th><th>Excelente (4)</th><th>Bien (3)</th><th>Suficiente (2)</th><th>Insuficiente (1)</th></tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>3.1 Reconstrucción cronológica</strong></td>
+              <td class="ex">Reconstrucción completa, ordenada y con participación diferenciada de cada miembro</td>
+              <td class="bien">Correcta con alguna laguna temporal o de atribución</td>
+              <td class="suf">Parcial o mezcla fases sin orden claro</td>
+              <td class="ins">No hay reconstrucción o es incoherente</td>
+            </tr>
+            <tr>
+              <td><strong>3.2 Análisis positivos/negativos</strong></td>
+              <td class="ex">Analiza en profundidad mínimo 3 aspectos positivos y 3 negativos con argumentación técnica sólida</td>
+              <td class="bien">Analiza aspectos con argumentación superficial</td>
+              <td class="suf">Menciona aspectos sin analizarlos ni argumentarlos</td>
+              <td class="ins">No identifica aspectos de mejora o son triviales</td>
+            </tr>
+            <tr>
+              <td><strong>3.3 Propuestas de mejora</strong></td>
+              <td class="ex">Propuestas concretas, viables y fundamentadas en los RA del módulo</td>
+              <td class="bien">Propuestas aceptables pero poco concretas o justificadas</td>
+              <td class="suf">Propuestas vagas o no relacionadas con los contenidos del módulo</td>
+              <td class="ins">No formula propuestas o son inadecuadas</td>
+            </tr>
+            <tr>
+              <td><strong>3.4 Calidad comunicativa</strong></td>
+              <td class="ex">Estructura clara, lenguaje técnico preciso, sin errores y presentación cuidada</td>
+              <td class="bien">Buena estructura con alguna imprecisión en lenguaje o formato</td>
+              <td class="suf">Estructura mejorable y lenguaje poco técnico</td>
+              <td class="ins">Documento desordenado con errores graves o lenguaje inadecuado</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div class="info-box success">
+        <strong>📊 Puntuación</strong>
+        <p>Máximo: <strong>32 puntos</strong> (8 criterios × 4 puntos) · Mínimo para superar: <strong>16 puntos (50%)</strong> · Cada bloque se pondera según el peso de la tarea.</p>
+      </div>
+    </div>
+  </div></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moq3ctss-dvqnrpcse</odePageId>
+  <odeParentPageId>page-moq3ctsj-2x8qafqsw</odeParentPageId>
+  <pageName>8.1 Lista de cotejo (T4)</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8.1 Lista de cotejo (T4)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Lista de cotejo (T4)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>8.1 Lista de cotejo (T4)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moq3ctss-dvqnrpcse</odePageId>
+      <odeBlockId>20260502185159KGFD0H</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq3ctss-dvqnrpcse</odePageId>
+          <odeBlockId>20260502185159KGFD0H</odeBlockId>
+          <odeIdeviceId>20260502000018I</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main">
+    <div class="hero" style="padding:60px;">
+      <div class="hero-tag">Instrumento 2 · Tarea 8.1</div>
+      <h1>Lista de <span>cotejo</span></h1>
+      <p class="hero-desc">Evaluación individual para la Tarea 4 — Navegación táctica en el terreno. RA1 crit. a,b,f / RA5 crit. b,c.</p>
+    </div>
+    <div class="content">
+      <h2>Lista de cotejo — T4</h2>
+      <p class="lead">La observación directa en campo permite registrar si realizas o no cada acción clave durante la navegación. Mínimo para superar: 9 de 12 ítems (75%).</p>
+
+      <div class="info-box">
+        <strong>ℹ️ Cómo funciona</strong>
+        <p>La docente observa directamente durante la sesión de campo y marca cada ítem en tiempo real. Puede complementarse con grabación de audio o vídeo para revisar en caso de duda. Los ítems no superados se devuelven con indicaciones concretas de mejora.</p>
+      </div>
+
+      <h3>Bloque A: Preparación y llegada al terreno</h3>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Nº</th><th>Indicador observable</th><th>SÍ</th><th>NO</th><th>Obs.</th></tr></thead>
+          <tbody>
+            <tr><td>1</td><td>Configura OruxMaps correctamente antes de iniciar la navegación (capas, GPS activo, mapa cargado)</td><td>☐</td><td>☐</td><td></td></tr>
+            <tr><td>2</td><td>Identifica correctamente los hitos geográficos del mapa previo al desplazamiento</td><td>☐</td><td>☐</td><td></td></tr>
+            <tr><td>3</td><td>Valora las condiciones meteorológicas y ajusta la planificación si es necesario</td><td>☐</td><td>☐</td><td></td></tr>
+            <tr><td>4</td><td>Establece un punto de inicio y un objetivo claro en el mapa antes de partir</td><td>☐</td><td>☐</td><td></td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h3>Bloque B: Navegación autónoma en el terreno</h3>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Nº</th><th>Indicador observable</th><th>SÍ</th><th>NO</th><th>Obs.</th></tr></thead>
+          <tbody>
+            <tr><td>5</td><td>Sigue el itinerario planificado sin perderse o justifica las desviaciones con criterio técnico</td><td>☐</td><td>☐</td><td></td></tr>
+            <tr><td>6</td><td>Usa correctamente las funciones de trazado y marcado de puntos en OruxMaps</td><td>☐</td><td>☐</td><td></td></tr>
+            <tr><td>7</td><td>Identifica in situ al menos 3 hitos geográficos relevantes para una operación de búsqueda</td><td>☐</td><td>☐</td><td></td></tr>
+            <tr><td>8</td><td>Delimita sobre el terreno o en el mapa una zona de búsqueda justificando su elección</td><td>☐</td><td>☐</td><td></td></tr>
+            <tr><td>9</td><td>Adapta la velocidad y el itinerario a las condiciones reales del terreno</td><td>☐</td><td>☐</td><td></td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h3>Bloque C: Toma de decisiones y comunicación</h3>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Nº</th><th>Indicador observable</th><th>SÍ</th><th>NO</th><th>Obs.</th></tr></thead>
+          <tbody>
+            <tr><td>10</td><td>Identifica necesidades de medios o recursos adicionales que serían necesarios en un operativo real</td><td>☐</td><td>☐</td><td></td></tr>
+            <tr><td>11</td><td>Comunica verbalmente a la docente su evaluación de la zona con terminología técnica correcta</td><td>☐</td><td>☐</td><td></td></tr>
+            <tr><td>12</td><td>Elabora un registro mínimo del recorrido (captura de ruta, notas, marcadores) para documentar la intervención</td><td>☐</td><td>☐</td><td></td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div class="info-box success">
+        <strong>📊 Resultado</strong>
+        <p>Ítems superados: ___/12 · Mínimo para superar: <strong>9/12 (75%)</strong></p>
+      </div>
+    </div>
+  </div></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moq3ctst-dmzwcwipd</odePageId>
+  <odeParentPageId>page-moq3ctsj-2x8qafqsw</odeParentPageId>
+  <pageName>8.1 Autoevaluación (T3)</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8.1 Autoevaluación (T3)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Autoevaluación (T3)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>8.1 Autoevaluación (T3)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moq3ctst-dmzwcwipd</odePageId>
+      <odeBlockId>20260502185159LOFT7H</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq3ctst-dmzwcwipd</odePageId>
+          <odeBlockId>20260502185159LOFT7H</odeBlockId>
+          <odeIdeviceId>20260502000020I</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><div class="hero" style="padding: 60px; background: linear-gradient(135deg, #4c1d95 0%, #2d1b69 100%);">
+<div class="hero-tag"><span style="color: #ffffff;">Instrumento 3 · Tarea 8.1</span></div>
+<h1><span style="color: #ffffff;">Cuestionario de autoevaluación</span></h1>
+<p class="hero-desc"><span style="color: #ffffff;">Para completar al finalizar la Tarea 3. Reflexión individual sobre el proceso de uso de la IA. No influye directamente en la nota.</span></p>
+</div>
+<div class="content">
+<h2>Autoevaluación — T3</h2>
+<p class="lead">Completa este cuestionario de forma individual y sincera al finalizar la sesión de simulación con IA. Tu reflexión honesta es más valiosa que una puntuación perfecta.</p>
+<div class="info-box"><strong>ℹ️ Objetivo de esta autoevaluación</strong>
+<p>No se trata de evaluarte en el sentido tradicional. El objetivo es que reflexiones sobre tu propio proceso: ¿usaste la IA críticamente? ¿Detectaste errores? ¿Qué aprendiste? Las respuestas ayudan a la docente a ajustar las próximas sesiones.</p>
+</div>
+<h3>Bloque A: Sobre la hipótesis que elaboraste</h3>
+<div class="table-wrap">
+<table>
+<thead>
+<tr>
+<th>Afirmación</th>
+<th colspan="5">Valoración (1 = Total desacuerdo · 5 = Total acuerdo)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1. La hipótesis que formulé recoge correctamente todos los elementos del escenario (tipo de suceso, población afectada, recursos, organización).</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2. Fui capaz de ir más allá de la información del centro de coordinación y anticipar posibles imprevistos en el escenario.</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+</tr>
+<tr>
+<td>3. La hipótesis que formulé es parecida a lo que elaboraría un profesional real en una situación de emergencia.</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3>Bloque B: Sobre el uso de la inteligencia artificial</h3>
+<div class="table-wrap">
+<table>
+<thead>
+<tr>
+<th>Afirmación</th>
+<th colspan="5">Valoración (1 = Total desacuerdo · 5 = Total acuerdo)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>4. Antes de aceptar la respuesta de la IA, la comparé con mis conocimientos técnicos del módulo.</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+</tr>
+<tr>
+<td>5. Identifiqué al menos un error o imprecisión en la respuesta que generó la IA y lo corregí o mejoré.</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+</tr>
+<tr>
+<td>6. Soy capaz de explicar por qué la IA no puede sustituir al juicio técnico de un coordinador o coordinadora de emergencias.</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+</tr>
+<tr>
+<td>7. La herramienta de IA fue útil para este tipo de tarea y podría usarla en mi futuro profesional de forma crítica.</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3>Bloque C: Preguntas abiertas</h3>
+<div style="background: var(--white); border: 1px solid var(--border); border-radius: 8px; padding: 20px; margin-top: 12px;">
+<p style="font-weight: 600; margin-bottom: 6px;">8. ¿Qué aspecto de la hipótesis te resultó más difícil de formular y por qué?</p>
+<div style="border: 1px solid var(--border); border-radius: 4px; min-height: 60px; padding: 8px; color: var(--text-muted); font-size: 13px;">[Espacio para respuesta]</div>
+<p style="font-weight: 600; margin: 16px 0 6px;">9. ¿Qué cambios hiciste en la respuesta de la IA y qué criterio técnico usaste para hacerlos?</p>
+<div style="border: 1px solid var(--border); border-radius: 4px; min-height: 60px; padding: 8px; color: var(--text-muted); font-size: 13px;">[Espacio para respuesta]</div>
+<p style="font-weight: 600; margin: 16px 0 6px;">10. ¿Qué aprendiste sobre la hipótesis de cobertura que no sabías antes de esta tarea?</p>
+<div style="border: 1px solid var(--border); border-radius: 4px; min-height: 60px; padding: 8px; color: var(--text-muted); font-size: 13px;">[Espacio para respuesta]</div>
+</div>
+</div></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moq3ctst-6cy9bvotg</odePageId>
+  <odeParentPageId>page-moq3ctsj-2x8qafqsw</odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moq3ctst-6cy9bvotg</odePageId>
+      <odeBlockId>20260502185159FYM245</odeBlockId>
+      <blockName>Guía didáctica</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq3ctst-6cy9bvotg</odePageId>
+          <odeBlockId>20260502185159FYM245</odeBlockId>
+          <odeIdeviceId>20260502000022I</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><div class="hero" style="padding: 60px;">
+<p class="hero-desc"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Información curricular, metodológica y organizativa para el profesorado que quiera aplicar este proyecto en su aula.</span></span></p>
+</div>
+<div class="content">
+<h2><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Información curricular</span></span></h2>
+<div class="table-wrap">
+<table>
+<tbody>
+<tr>
+<td><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Módulo</span></span></strong></td>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">1534. Coordinación de equipos y unidades de emergencias.</span></span></td>
+</tr>
+<tr>
+<td><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Ciclo formativo</span></span></strong></td>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Grado Medio de Emergencias y Protección Civil</span></span></td>
+</tr>
+<tr>
+<td><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Curso</span></span></strong></td>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">2º (alumnado mayor de 16 años, requisito para drones cat. abierta)</span></span></td>
+</tr>
+<tr>
+<td><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Duración</span></span></strong></td>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">3er trimestre · 4 días · 6h/día · 24h totales (12 sesiones)</span></span></td>
+</tr>
+<tr>
+<td><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Modalidad</span></span></strong></td>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">DUAL. Las sesiones son en el aula y en la finca de la Diputación de Córdoba.</span></span></td>
+</tr>
+<tr>
+<td><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Idioma</span></span></strong></td>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Castellano</span></span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Competencias específicas trabajadas</span></span></h3>
+<ul>
+<li><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Planificar y organizar dispositivos de búsqueda y rescate integrando medios tecnológicos avanzados.</span></span></li>
+<li><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Supervisar la intervención evaluando la efectividad de los procedimientos y proponiendo mejoras.</span></span></li>
+<li><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Gestionar situaciones de incertidumbre tecnológica manteniendo la operatividad del equipo.</span></span></li>
+<li><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Usar herramientas de inteligencia artificial de forma crítica y fundamentada en el contexto de emergencias.</span></span></li>
+<li><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Aplicar la normativa vigente sobre el uso de drones en operaciones de emergencia.</span></span></li>
+</ul>
+<h3><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Metodología y principios DUA</span></span></h3>
+<div class="dua-grid">
+<div class="dua-card fade-in">
+<div class="dua-icon"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">🔍</span></span></div>
+<h5><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Aprendizaje Basado en Proyectos</span></span></h5>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Escenario real y auténtico con un reto profesional concreto como hilo conductor.</span></span></p>
+</div>
+<div class="dua-card fade-in">
+<div class="dua-icon"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">🤔 Pensamiento crítico</span></span></div>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">La IA falla deliberadamente. El alumno debe detectar el error y actuar.</span></span></p>
+</div>
+<div class="dua-card fade-in">
+<div class="dua-icon"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">♿ Atención a la diversidad</span></span></div>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Rol de experto TIC, agrupamientos variables, recursos en múltiples formatos.</span></span></p>
+</div>
+</div>
+<h3><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Recomendaciones para su aplicación</span></span></h3>
+<div class="info-box"><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">📍 Coordinación con el espacio de prácticas</span></span></strong>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Contactar con anticipación con la finca para confirmar disponibilidad, condiciones meteorológicas y zonas de vuelo de drones autorizadas. Preparar siempre un plan B de actividad en aula si el tiempo no acompaña.</span></span></p>
+</div>
+<div class="info-box warning"><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">🤖 Gestión de los fallos de IA</span></span></strong>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Los "fallos" de la IA deben estar preparados de antemano por la docente: avisos con respuestas incorrectas previstas, mapas que no cargan, escenarios con datos erróneos. El bloqueo del alumno ante el fallo es información didáctica valiosa.</span></span></p>
+</div>
+<div class="info-box success"><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">✈️ Normativa de drones (actualización)</span></span></strong>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Verifique antes de cada práctica el estado de las zonas de vuelo en ENAIRE y la vigencia de los registros del operador UAS. La normativa puede cambiar. Siempre volar con el registro activo y la documentación en papel.</span></span></p>
+</div>
+<h3><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Tabla resumen: tareas, criterios y evaluación</span></span></h3>
+<div class="table-wrap">
+<table>
+<thead>
+<tr>
+<th><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Tarea</span></span></th>
+<th><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">RA y Criterios</span></span></th>
+<th><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Instrumento</span></span></th>
+<th><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Peso</span></span></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">T1 — Normativa aérea</span></span></td>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">RA1 · a, b, h</span></span></td>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Rúbrica analítica (Bloque 1)</span></span></td>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">20%</span></span></td>
+</tr>
+<tr>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">T2 — Cartografía</span></span></td>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">RA1 · b, d, h</span></span></td>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Rúbrica analítica (Bloque 1)</span></span></td>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">20%</span></span></td>
+</tr>
+<tr>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">T3 — Hipótesis IA</span></span></td>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">RA2-3-4-5 · a</span></span></td>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Rúbrica (Bloque 2) + Autoevaluación</span></span></td>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">25%</span></span></td>
+</tr>
+<tr>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">T4 — Navegación</span></span></td>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">RA1 · a,b,f / RA5 · b,c</span></span></td>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Lista de cotejo</span></span></td>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">20%</span></span></td>
+</tr>
+<tr>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">T5 — Informe final</span></span></td>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">RA6 · a, c, d, e, f</span></span></td>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Rúbrica analítica (Bloque 3)</span></span></td>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">15%</span></span></td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+</div>
+</div></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moq3ctst-1hq9l9vbh</odePageId>
+  <odeParentPageId>page-moq3ctsj-2x8qafqsw</odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moq3ctst-1hq9l9vbh</odePageId>
+      <odeBlockId>202605021851592BBS5T</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq3ctst-1hq9l9vbh</odePageId>
+          <odeBlockId>202605021851592BBS5T</odeBlockId>
+          <odeIdeviceId>20260502000024I</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><div class="hero" style="padding: 60px; background: linear-gradient(135deg, #1c1917 0%, #292524 100%);">
+<p class="hero-desc"><span style="color: #ffffff;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Información sobre autoría, licencia y descarga del archivo editable</span></span></span><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> .</span></span></p>
+</div>
+<div class="content">
+<h2><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Créditos</span></span></h2>
+<div class="credits-box">
+<h3><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">🚁 Ojos en el cielo</span></span></h3>
+<p><strong style="color: #fff;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Autoría:</span></span></strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> Cristina Gómez Montilla</span></span></p>
+<p><strong style="color: #fff;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Centro:</span></span></strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> IES / Centro de Formación Profesional · Córdoba, Andalucía</span></span></p>
+<p><strong style="color: #fff;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Módulo:</span></span></strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> 1508 — Supervisión de la intervención en operaciones de salvamento y rescate</span></span></p>
+<p><strong style="color: #fff;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Ciclo:</span></span></strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> Grado Medio de Emergencias y Protección Civil</span></span></p>
+<p><strong style="color: #fff;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Curso académico:</span></span></strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> 2025-2026</span></span></p>
+<p><strong style="color: #fff;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Herramienta de autor:</span></span></strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> eXeLearning 3 (software libre — </span></span><a href="https://exelearning.net" target="_blank" rel="noopener"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">exelearning.net</span></span></a><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> )</span></span></p>
+<p><strong style="color: #fff;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Descripción:</span></span></strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> Situación de aprendizaje para el Módulo 1508 basada en el uso de drones e IA en búsqueda de personas, con énfasis en la gestión de fallos tecnológicos y el trabajo analógico como recurso de contingencia.</span></span></p>
+<a href="#" class="license-badge"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">🔓 Creative Commons BY-SA 4.0 Internacional </span></span></a> <br><a href="#" class="download-btn"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">⬇️ Descargar archivo editable (.elpx)</span></span></a></div>
+<h3 style="margin-top: 32px;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Sobre la licencia CC BY-SA 4.0</span></span></h3>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Este recurso educativo abierto se publica bajo licencia </span></span><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Creative Commons Atribución-CompartirIgual 4.0 Internacional</span></span></strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> . Esto significa que puedes:</span></span></p>
+<ul>
+<li><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Compartir</span></span></strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> — copiar y redistribuir el material en cualquier medio o formato.</span></span></li>
+<li><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Adaptar</span></span></strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> — remezclar, transformar y crear a partir del material.</span></span></li>
+</ul>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Siempre que se cumplan estas condiciones:</span></span></p>
+<ul>
+<li><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Atribución</span></span></strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> — cita a Cristina Gómez Montilla como autora original.</span></span></li>
+<li><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">CompartirIgual</span></span></strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> — si adaptas el material, distribúyelo bajo la misma licencia.</span></span></li>
+</ul>
+<h3><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Recursos utilizados y autoria</span></span></h3>
+<div class="table-wrap">
+<table>
+<thead>
+<tr>
+<th><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Recurso</span></span></th>
+<th><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Autoría / Fuente</span></span></th>
+<th><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Licencia</span></span></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Contenidos del módulo y tareas</span></span></td>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Cristina Gómez Montilla</span></span></td>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">CC BY-SA 4.0</span></span></td>
+</tr>
+<tr>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Infografía "Identidad Digital"</span></span></td>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Cristina Gómez (elaboración propia)</span></span></td>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">CC BY-SA 4.0</span></span></td>
+</tr>
+<tr>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Línea temporal del módulo</span></span></td>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Cristina Gómez (elaboración propia)</span></span></td>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">CC BY-SA 4.0</span></span></td>
+</tr>
+<tr>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Instrumentos de evaluación</span></span></td>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Cristina Gómez Montilla</span></span></td>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">CC BY-SA 4.0</span></span></td>
+</tr>
+<tr>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Fuentes de Google (Barlow)</span></span></td>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Compañía tipográfica Tribby</span></span></td>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">OFL (abierta)</span></span></td>
+</tr>
+<tr>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Cartografía IGN / Iberpix</span></span></td>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Instituto Geográfico Nacional</span></span></td>
+<td><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">CC BY 4.0</span></span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="info-box"><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">📬 Contacto</span></span></strong>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Para sugerencias, correcciones o colaboraciones en la mejora de este recurso, puedes contactar a través del Aula Virtual de Formación del Profesorado de la Junta de Andalucía.</span></span></p>
+</div>
+</div></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
